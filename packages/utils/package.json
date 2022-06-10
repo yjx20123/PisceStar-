@@ -1,0 +1,19 @@
+{
+  "name": "@piscestar-cli-dev/utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "杨家兴 <6541049+yangjiax@user.noreply.gitee.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
